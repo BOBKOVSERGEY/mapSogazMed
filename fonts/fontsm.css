@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'PragmaticaC';
+    src: url('../fonts/PragmaticaBook.eot');
+    src: url('../fonts/PragmaticaBook.eot?#iefix') format('embedded-opentype'), url('PragmaticaBook.woff') format('woff'), url('../fonts/PragmaticaBook.ttf') format('truetype'), url('../fonts/PragmaticaBook.svg#pragmaticac') format('svg');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'PragmaticaCBold';
+    src: url('../fonts/PragmaticaCBold.eot');
+    src: url('../fonts/PragmaticaCBold.eot?#iefix') format('embedded-opentype'), url('PragmaticaCBold.woff') format('woff'), url('../fonts/PragmaticaCBold.ttf') format('truetype'), url('../fonts/PragmaticaCBold.svg#pragmaticacbold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}

@@ -41,6 +41,7 @@
 
 
   <link href="https://www.sogaz-med.ru/css/fonts.css" type="text/css" rel="stylesheet"/>
+  <link href="fonts/fontsm.css" type="text/css" rel="stylesheet"/>
   <link href="https://www.sogaz-med.ru/css/reset.css" rel="stylesheet" type="text/css">
   <link href="https://www.sogaz-med.ru/css/style.css?v=3.4" rel="stylesheet" type="text/css">
   <link href="https://www.sogaz-med.ru/css/chosen.css" rel="stylesheet" type="text/css">
